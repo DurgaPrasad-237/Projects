@@ -8,3 +8,4 @@
 <li>Math.Floor</li>
 <li>Math.random</li>
 </ul>
+<img src="/TempImages/Screenshot (116).png">
