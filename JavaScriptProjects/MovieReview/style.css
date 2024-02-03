@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(71, 118, 159);
+}
+h1{
+    text-align: center;
+    color:rgb(211, 123, 30);
+ 
+}
+
+.Container {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    width: 50%;
+    height: 70vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.review {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px 0;
+    padding: 50px;
+}
+.review h3{
+    font-size: 25px;
+    line-height: 20px;
+  
+}
+.review p{
+    font-size:18px;
+    line-height: 1.5;
+}
+
+.review .imagecontainer img {
+    border-radius: 50%;
+    height:150px;
+    width:150px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 20px;
+    width: 40%;
+    position: fixed;
+    top:80%;
+}
+
+i{
+    font-size: 30px;
+    
+}
+i:hover{
+    cursor:pointer;
+    transform: scale(1.2);
+    color:rgb(202, 131, 55);
+}
+
