@@ -21,3 +21,7 @@
 <li>onCLick()</li>
 <li>functions</li>
 </ul>
+<img src="/TempImages/Screenshot (127).png">
+<img src="/TempImages/Screenshot (128).png">
+<img src="/TempImages/Screenshot (129).png">
+
