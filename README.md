@@ -21,3 +21,14 @@
 <li>onCLick()</li>
 <li>functions</li>
 </ul>
+<h1>Movie Review</h1>
+<p>A simple movie reviews website </p>
+<h4>Concepts I used for creating this quote Generator</h4>
+<ul>
+<li>eventlistner</li>
+<li>Array</li>
+<li>Objects</li>
+<li>getElementById</li>
+<li>getQuerySelector</li>
+<li>functions</li>
+</ul>
