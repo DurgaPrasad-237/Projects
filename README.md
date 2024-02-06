@@ -21,6 +21,13 @@
 <li>onCLick()</li>
 <li>functions</li>
 </ul>
+<p>PrimeNumber</p>
+<img src="/TempImages/Screenshot (127).png">
+<p>Composite</p>
+<img src="/TempImages/Screenshot (128).png">
+<p>Clear</p>
+<img src="/TempImages/Screenshot (129).png">
+<hr>
 <h1>Movie Review</h1>
 <p>A simple movie reviews website </p>
 <h4>Concepts I used for creating this quote Generator</h4>
@@ -32,3 +39,4 @@
 <li>getQuerySelector</li>
 <li>functions</li>
 </ul>
+
