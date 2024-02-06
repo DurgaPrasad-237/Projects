@@ -43,5 +43,9 @@ https://github.com/DurgaPrasad-237/Projects/assets/106289611/0eef19aa-d1be-4940-
 <li>getQuerySelector</li>
 <li>functions</li>
 </ul>
-https://github.com/DurgaPrasad-237/Projects/assets/106289611/36779c72-2613-4d6a-b20d-80109499a6ff
+
+
+
+https://github.com/DurgaPrasad-237/Projects/assets/106289611/58b1e981-4459-493d-a403-ed42504a3ec7
+
 
