@@ -1,5 +1,5 @@
-<h1>Crude Application</h1>
-<p>A simple Crude operations</p>
+<h1>Crud Application</h1>
+<p>A simple Crud operations</p>
 <ul>
   <p>The project was developed incorporating the following concepts </p>
   <li>Java</li>
