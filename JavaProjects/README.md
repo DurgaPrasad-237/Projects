@@ -15,7 +15,7 @@
 https://github.com/DurgaPrasad-237/Projects/assets/106289611/52ff25f5-6c9e-4f83-b87d-125acf8c5e64
 <hr>
 <h1>Hospital Management System</h1>
-<p>Introducing our Dynamic Hospital Management System, a web application powered by HTML, CSS, JavaScript, Java, JDBC, Servlets, MySQL, JSP, and Tomcat server. This robust solution offers seamless patient management and appointment scheduling.</p>
+<p>Introducing Dynamic Hospital Management System, a web application powered by HTML, CSS, JavaScript, Java, JDBC, Servlets, MySQL, JSP, and Tomcat server. This robust solution offers seamless patient management and appointment scheduling.</p>
 
 
 
