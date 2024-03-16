@@ -1,0 +1,39 @@
+.multiplebutton{
+    width:150px;
+    height:40px;
+    color:aliceblue;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:30px auto;
+}
+.multiplebutton:hover{
+    color:cornflowerblue;
+}
+.container{
+    border:2px solid black;
+    width:50%;
+    height:auto;
+    padding:15px;
+    margin:0px auto;
+    background-color: black;
+ 
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top:10px;
+    background-color: rgb(6, 65, 102);
+    color:rgb(34, 190, 172);
+}
+.answer{
+    color:rgb(245, 245, 245);
+    text-align: center;
+    transition: height 2s;
+    padding:10px;
+}

@@ -1,4 +1,5 @@
 import data from './data'
+import './styles.css';
 import React,{useState} from 'react';
 function Index(){
     const [selected,setSelected] = useState(null);
@@ -21,19 +22,19 @@ function Index(){
 
     return (
         <>
-        <div onClick={()=>setEnableMultiSelection(!enableMultiSelection)}>Multiple Selection</div>
-        <div>
+        <div className="multiplebutton" onClick={()=>setEnableMultiSelection(!enableMultiSelection)}>Multiple Selection</div>
+        <div className="container">
             {
                 data && data.length > 0 ?
                 data.map(item =>
                     <div>
-                        <div onClick={enableMultiSelection ?() =>multiSelection (item.id) : ()=>handleSingleSelection(item.id)}>
+                        <div className="wrapper" onClick={enableMultiSelection ?() =>multiSelection (item.id) : ()=>handleSingleSelection(item.id)}>
                     <h3>{item.Question}</h3>
                     <span>+</span>
                         </div>
                         {
                             selected === item.id || multiple.indexOf(item.id) !== -1 ?
-                            <div>{item.answer}</div>
+                            <div className="answer">{item.answer}</div>
                             :null
                         }
                     </div>)
