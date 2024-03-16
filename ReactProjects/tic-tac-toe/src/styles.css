@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(19, 17, 17);
+}
+.container{
+    border:2px solid white;
+    height:auto;
+    width:50vh;
+    margin:20vh auto;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    padding:10px;
+}
+.row{
+    width:100%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    margin:2px;
+  
+}
+.square{
+    width:32%;
+    height:100px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.status{
+    color:white;
+    text-align:center;
+}
