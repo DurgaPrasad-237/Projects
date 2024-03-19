@@ -1,0 +1,65 @@
+.heading{
+    text-align: center;
+    color: red;
+}
+.container{
+    margin:auto auto;
+    height:60vh;
+    width:80%;
+    background-color: cornflowerblue;
+}
+.box{
+    height:80%;
+    width:80%;
+    margin:5vh auto;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    flex-direction: row;
+ 
+
+}
+.box .inputsection{
+   
+    padding:20px;
+    height:80%;
+    width:50%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 2;
+}
+.box .resultarea{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding:20px;
+    height:80%;
+    width:40%;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+    transition: margin-left 0.5s ease, opacity 0.5s ease;
+}
+
+
+.close{
+    margin-left: -50%;
+    opacity: 0;
+}
+
+.box div h1{
+    text-align: center;
+    font-size: 40px;
+}
+.input-area{
+    width:70%;
+    height:30px;
+    margin-left:70px;
+}
+
+button{
+    width:150px;
+    margin:50px auto;
+    height:40px;
+
+}
