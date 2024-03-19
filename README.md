@@ -52,4 +52,13 @@ https://github.com/DurgaPrasad-237/Projects/assets/106289611/0eef19aa-d1be-4940-
 
 https://github.com/DurgaPrasad-237/Projects/assets/106289611/58b1e981-4459-493d-a403-ed42504a3ec7
 
+<hr>
+<h1>Palidrome Checker</h1>
+<p>Enter the word or phrase check wheather it is palidrome or not</p>
+<h3>Here is the video below</h3>
+
+
+
+https://github.com/DurgaPrasad-237/Projects/assets/106289611/6c5b0b4a-19a9-48f3-b72e-d68a0addbf2d
+
 
